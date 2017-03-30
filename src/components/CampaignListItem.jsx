@@ -17,7 +17,7 @@ class CampaignListItem extends React.Component {
             paddingBottom: '100%',
           }}
         />
-        <div className='pt3'>
+        <div className='pt2'>
           {this.props.campaign.title}
         </div>
       </div>
